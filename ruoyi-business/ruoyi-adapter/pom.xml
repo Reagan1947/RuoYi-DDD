@@ -29,6 +29,7 @@
       <artifactId>ruoyi-common</artifactId>
     </dependency>
     <!-- 通用工具 /-->
+
   </dependencies>
 
 </project>
