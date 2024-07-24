@@ -8,7 +8,6 @@
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
-    <groupId>ruoyi.business</groupId>
     <packaging>pom</packaging>
     <artifactId>ruoyi-business</artifactId>
     <description>ruoyi-business</description>

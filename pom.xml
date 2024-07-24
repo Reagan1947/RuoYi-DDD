@@ -182,6 +182,40 @@
                 <version>${ruoyi.version}</version>
             </dependency>
 
+            <!-- adapter module -->
+            <dependency>
+                <groupId>com.ruoyi</groupId>
+                <artifactId>ruoyi-adapter</artifactId>
+                <version>${ruoyi.version}</version>
+            </dependency>
+
+            <!-- adapter module -->
+            <dependency>
+                <groupId>com.ruoyi</groupId>
+                <artifactId>ruoyi-app</artifactId>
+                <version>${ruoyi.version}</version>
+            </dependency>
+
+            <!-- adapter module -->
+            <dependency>
+                <groupId>com.ruoyi</groupId>
+                <artifactId>ruoyi-client</artifactId>
+                <version>${ruoyi.version}</version>
+            </dependency>
+
+            <!-- adapter module -->
+            <dependency>
+                <groupId>com.ruoyi</groupId>
+                <artifactId>ruoyi-domain</artifactId>
+                <version>${ruoyi.version}</version>
+            </dependency>
+
+            <!-- adapter module -->
+            <dependency>
+                <groupId>com.ruoyi</groupId>
+                <artifactId>ruoyi-infrastructure</artifactId>
+                <version>${ruoyi.version}</version>
+            </dependency>
         </dependencies>
     </dependencyManagement>
 
